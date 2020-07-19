@@ -1,0 +1,7 @@
+﻿  Linked_list.cpp
+C:\Users\Liran\source\repos\Lab1\Lab1\Linked_list.cpp(163,13): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Liran\source\repos\Lab1\Lab1\Linked_list.cpp(165,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liran\source\repos\Lab1\Lab1\Linked_list.cpp(247,8): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Liran\source\repos\Lab1\Lab1\Linked_list.cpp(101): warning C4715: delete_head: значение возвращается не при всех путях выполнения
+C:\Users\Liran\source\repos\Lab1\Lab1\Linked_list.cpp(240): warning C4715: add_before: значение возвращается не при всех путях выполнения
+  Lab1.vcxproj -> C:\Users\Liran\source\repos\Lab1\Debug\Lab1.exe
